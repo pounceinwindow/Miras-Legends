@@ -9,6 +9,7 @@ test-results/
 *.tsbuildinfo
 .DS_Store
 artifacts/
+edit/
 supabase/.temp/
 
 **/bin/
